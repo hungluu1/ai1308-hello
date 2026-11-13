@@ -9,3 +9,8 @@ Lam quen voi vong lap clone - commit - push tren GitHub.
 ## Tac gia
 
 - GitHub: hungluu1
+
+
+## Development
+
+Nhanh dev dang phat trien tinh nang moi.
